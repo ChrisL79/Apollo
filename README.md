@@ -3,9 +3,7 @@ Apollo is a network PTT program for SunSDR radios over TCI with user selectablep
 
 ## Interface
 
-![Interface]
-
-vrfttftrfttt(IMAGES/interface.jpg)
+![Interface](IMAGES/interface.jpg)
 
 ## About
 ![About](IMAGES/about.jpg)
