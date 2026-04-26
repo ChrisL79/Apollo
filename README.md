@@ -1,4 +1,9 @@
 # Apollo
+
+I make programs for myself if nothing exists that i exactly want. If they turn out to be half decent, i will share them with the world.
+
+I'm not a programmer! I just program for fun and to create something i need.
+
 Apollo is a network PTT program for SunSDR radios over TCI with user selectable pre and/or post Quindar tones from the Gemini/Apollo era. Apollo will inject the selected mic directly into the TX audio chain. I use it for transmitting on QO-100 satellite. The radio is keyed either by pressing the PTT button on screen, or selecting a USB to serial port number. I bought a cheap footswitch on Amazon and connected it to the DTR and DSR pins. This enables PTT over the LAN or remotely via the internet.
 
 ## Icon
